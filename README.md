@@ -1,7 +1,14 @@
 # JS-deep-dive-study
-깃헙: 퀴즈 공유 및 답안 공유
+<div align="center">
+<img src="https://user-images.githubusercontent.com/107309247/218252012-c0faca45-b316-4acb-8d88-852f8954f8ae.png" height=500 />
+</div>
+💭깃헙   
 
-노션: 책 내용 정리
+:퀴즈 공유 및 답안 공유  
+
+📖노션  
+: 책 내용 정리 및 회고  
+https://www.notion.so/prgrms/Deep-Dive-40e2d202e49b4662a6e9d4f0d2595146
 
 ## 진행방식
 ###  💻퀴즈 공유 방법
